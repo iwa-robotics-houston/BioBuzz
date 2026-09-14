@@ -1,4 +1,16 @@
-## NOTICE
+# BioBuzz — Pedro Pathing
+
+FTC SDK 12.0.0 with the full Pedro Pathing 3.0.0 core and REV Hub integration,
+AutoTune 1.0.0, Ivy 1.1.1 commands, and a goBILDA Pinpoint follower setup.
+See [Pedro setup](docs/PEDRO_SETUP.md) for hardware
+configuration, tuning, and building.
+
+The team code includes `pedro/Constants.java`, registered AutoTune procedures,
+and `BiobuzzVision.java` for moving-HIVE AprilTag localization.
+The `pedro/examples` package demonstrates Pedro 3 paths, pose factories,
+per-path constraints, logging, Ivy autonomous sequences, and field-centric TeleOp.
+
+## FTC SDK information
 
 This repository contains the public FTC SDK for the BIOBUZZ (2026-2027) competition season.
 
